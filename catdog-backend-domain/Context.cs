@@ -29,5 +29,9 @@ namespace catdog_backend_domain
         public DbSet<Animal> Animal { get; set; }
 
         public DbSet<Evento> Evento { get; set; }
+
+        public DbSet<TipoEvento> TipoEvento { get; set; }
+        
+        public DbSet<Entidade> Entidade { get; set; }
     }
 }
