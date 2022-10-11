@@ -3,3 +3,5 @@ catdog-backend\catdog-backend-domain> dotnet ef migrations --startup-project ..\
 
 //REMOVER MIGRATIONS
 catdog-backend\catdog-backend-domain> dotnet ef migrations --startup-project ..\catdog-backend-api\ remove
+
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
