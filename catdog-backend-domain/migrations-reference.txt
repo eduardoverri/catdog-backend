@@ -1,0 +1,5 @@
+//CRIAR NOVO MIGRATIONS
+catdog-backend\catdog-backend-domain> dotnet ef migrations --startup-project ..\catdog-backend-api\ add Initial
+
+//REMOVER MIGRATIONS
+catdog-backend\catdog-backend-domain> dotnet ef migrations --startup-project ..\catdog-backend-api\ remove

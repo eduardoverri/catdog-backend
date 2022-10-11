@@ -1,0 +1,14 @@
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\bin\Debug\net6.0\catdog-backend-domain.deps.json
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\bin\Debug\net6.0\catdog-backend-domain.dll
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\bin\Debug\net6.0\catdog-backend-domain.pdb
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.dll
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\refint\catdog-backend-domain.dll
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.pdb
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\ref\catdog-backend-domain.dll
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\bin\Debug\net6.0\catdog-backend-domain.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\git\catdog-backend\catdog-backend-domain\obj\Debug\net6.0\catdog-backend-domain.genruntimeconfig.cache
