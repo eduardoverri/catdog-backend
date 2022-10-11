@@ -5,11 +5,9 @@ using System.Threading.Tasks;
 
 namespace catdog_backend_domain.models
 {
-    public class Usuario
+    public class Entidade
     {
         public int Id { get; set; }
-        public string Nome { get; set; }
-        public string Email { get; set; }
-        public string Cpf_cnpj { get; set; }
+        
     }
 }

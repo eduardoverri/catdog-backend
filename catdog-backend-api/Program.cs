@@ -60,7 +60,9 @@ app.UseSwaggerUI(c =>
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<Context>();
-    context.Database.EnsureCreated();
+    // context.Database.EnsureCreated();
+
+    //context.Database.Migrate();
 }
 
 app.UseHttpsRedirection();
